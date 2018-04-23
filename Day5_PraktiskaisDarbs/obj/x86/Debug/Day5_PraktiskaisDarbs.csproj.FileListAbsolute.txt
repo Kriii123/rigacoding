@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/Day5_PraktiskaisDarbs/bin/Debug/Day5_PraktiskaisDarbs.exe
+/Users/Krish/Projects/rigacoding/Day5_PraktiskaisDarbs/bin/Debug/Day5_PraktiskaisDarbs.pdb
+/Users/Krish/Projects/rigacoding/Day5_PraktiskaisDarbs/obj/x86/Debug/Day5_PraktiskaisDarbs.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/Day5_PraktiskaisDarbs/obj/x86/Debug/Day5_PraktiskaisDarbs.exe
+/Users/Krish/Projects/rigacoding/Day5_PraktiskaisDarbs/obj/x86/Debug/Day5_PraktiskaisDarbs.pdb

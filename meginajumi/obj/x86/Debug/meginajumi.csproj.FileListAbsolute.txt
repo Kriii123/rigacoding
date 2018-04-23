@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/meginajumi/bin/Debug/meginajumi.exe
+/Users/Krish/Projects/rigacoding/meginajumi/bin/Debug/meginajumi.pdb
+/Users/Krish/Projects/rigacoding/meginajumi/obj/x86/Debug/meginajumi.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/meginajumi/obj/x86/Debug/meginajumi.exe
+/Users/Krish/Projects/rigacoding/meginajumi/obj/x86/Debug/meginajumi.pdb

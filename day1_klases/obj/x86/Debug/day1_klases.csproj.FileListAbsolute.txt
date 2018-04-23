@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/day1_klases/bin/Debug/day1_klases.exe
+/Users/Krish/Projects/rigacoding/day1_klases/bin/Debug/day1_klases.pdb
+/Users/Krish/Projects/rigacoding/day1_klases/obj/x86/Debug/day1_klases.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/day1_klases/obj/x86/Debug/day1_klases.exe
+/Users/Krish/Projects/rigacoding/day1_klases/obj/x86/Debug/day1_klases.pdb

@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/Day3_sazarojumi/obj/x86/Debug/Day3_sazarojumi.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/Day3_sazarojumi/bin/Debug/Day3_sazarojumi.exe
+/Users/Krish/Projects/rigacoding/Day3_sazarojumi/bin/Debug/Day3_sazarojumi.pdb
+/Users/Krish/Projects/rigacoding/Day3_sazarojumi/obj/x86/Debug/Day3_sazarojumi.exe
+/Users/Krish/Projects/rigacoding/Day3_sazarojumi/obj/x86/Debug/Day3_sazarojumi.pdb

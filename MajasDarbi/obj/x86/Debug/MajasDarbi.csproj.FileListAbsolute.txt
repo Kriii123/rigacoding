@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/MajasDarbi/bin/Debug/MajasDarbi.exe
+/Users/Krish/Projects/rigacoding/MajasDarbi/bin/Debug/MajasDarbi.pdb
+/Users/Krish/Projects/rigacoding/MajasDarbi/obj/x86/Debug/MajasDarbi.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/MajasDarbi/obj/x86/Debug/MajasDarbi.exe
+/Users/Krish/Projects/rigacoding/MajasDarbi/obj/x86/Debug/MajasDarbi.pdb

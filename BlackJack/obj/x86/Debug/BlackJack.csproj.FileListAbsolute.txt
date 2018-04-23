@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/BlackJack/bin/Debug/BlackJack.exe
+/Users/Krish/Projects/rigacoding/BlackJack/bin/Debug/BlackJack.pdb
+/Users/Krish/Projects/rigacoding/BlackJack/obj/x86/Debug/BlackJack.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/BlackJack/obj/x86/Debug/BlackJack.exe
+/Users/Krish/Projects/rigacoding/BlackJack/obj/x86/Debug/BlackJack.pdb

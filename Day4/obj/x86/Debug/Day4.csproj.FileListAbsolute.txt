@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/Day4/obj/x86/Debug/Day4.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/Day4/bin/Debug/Day4.exe
+/Users/Krish/Projects/rigacoding/Day4/bin/Debug/Day4.pdb
+/Users/Krish/Projects/rigacoding/Day4/obj/x86/Debug/Day4.exe
+/Users/Krish/Projects/rigacoding/Day4/obj/x86/Debug/Day4.pdb
