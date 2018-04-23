@@ -1,11 +1,13 @@
-﻿<Properties StartupConfiguration="{DE65A481-9767-4531-BFF6-49A8E674AD31}|Default">
+﻿<Properties StartupConfiguration="{96638FCD-C3ED-4F46-AA94-0D6FCD7F180A}|Default">
   <MonoDevelop.Ide.ItemProperties.BlackJack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day5__PraktiskaisDarbs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MajasDarbi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack/Classes/Game.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack/Classes/Player.cs">
     <Files>
-      <File FileName="BlackJack/Program.cs" Line="17" Column="27" />
-      <File FileName="BlackJack/Classes/Game.cs" Line="18" Column="39" />
+      <File FileName="BlackJack/Program.cs" Line="22" Column="48" />
+      <File FileName="BlackJack/Classes/Game.cs" Line="24" Column="17" />
+      <File FileName="BlackJack/Classes/Deck.cs" Line="53" Column="13" />
+      <File FileName="BlackJack/Classes/Player.cs" Line="6" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Day8 PreferredExecutionTarget="MonoDevelop.Default" />

@@ -3,22 +3,33 @@ namespace BlackJack.Classes
 {
     public class Game
     {
-        public Dealer Dealer; //objekti
+        public Dealer Dealer; //objekti - mainīgie, kas tiks izmantoti klases ietvaros - tās būs īpašības
         public Player Player;
         public Deck Deck;
 
         public bool StartNewGame()
         {
-            bool startNew = Game.GetAnswer("Vai uzsākt jaunu spēli?");
+            bool startNew = Game.GetAnswer("Vai uzsākt jaunu spēli? ");
 
-            if(startNew) // ja izpildās
+            if (startNew) // ja izpildās
             {
                 Console.WriteLine("Uzsākta jauna spēle!");
-                Deck = new Deck();
+                Deck = Deck.TakeNewDeck(); // veido jaunu konstruktoru un uzsauc to
                 Dealer = new Dealer();
                 Player = new Player();
 
+                Deck.Shuffle();//iet uz deku un izsauc to funkciju
+
+                Player.GiveCard(Deck.TakeCard());
+                Player.GiveCard(Deck.TakeCard());
+
+                while(Player.NeedAnotherCard())
+                {
+                    Player.GiveCard(Deck.TakeCard());
+                }
+
             }
+
 
             return startNew;
 

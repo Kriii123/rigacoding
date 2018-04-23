@@ -19,7 +19,7 @@ namespace BlackJack
 
             }
 
-            Console.WriteLine("Spēle pabeigta!");
+            Console.WriteLine("Spēle pabeigta! ");
 
 
             Console.ReadLine();

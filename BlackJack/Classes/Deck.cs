@@ -13,16 +13,16 @@ namespace BlackJack.Classes
         /// </summary>
         public List <Card> Cards; // ievadei izmanto ciklu ciklā (for)
 
-        public Deck()
+        public Deck() // funkcija - iekavas, nav semikols, šai nav tipa un nav arī void, sakrīt ar klases nosaukumu
         {
-            Cards = new List<Card>[52];
+            Cards = new List<Card>();
 
             foreach(char s in Suits)
             {
                 foreach(string v in Values)
                 {
                     //pievieno jaunu kārti
-                    Cards.Add(new Card(v, s));
+                    Cards.Add(new Card(v, s));//uztaisa sarakstu ar visām vērtībām
 
                 }
             }
@@ -30,26 +30,27 @@ namespace BlackJack.Classes
 
         public Card TakeCard()
         {
-            Card newCard = Cards[0];
-            Cards.RemoveAt(0);
+            Card newCard = Cards[0];//jauns mainīgais - kārts - paņem pirmo kārti no kavas
+            Cards.RemoveAt(0); // to pašu elemetu izdzēš no kavas
 
-            return newCard;
+            return newCard; //tā kārts ko izdzēsām
 
         }
         /// <summary>
         /// Izveido jaunu kārti
         /// </summary>
         /// <returns>The new card.</returns>
-        public Deck TakeNewCard()
+        public static Deck TakeNewDeck()
         {
-            return null;
+            return new Deck();
         }
         /// <summary>
         /// Sajauc kāršu kavu
         /// </summary>
         public void Shuffle()
         {
-            
+            Cards = Cards.OrderBy(c => Guid.NewGuid()).ToList();//giud - globālais unikālais identifikators
+
         }
     }
 }
