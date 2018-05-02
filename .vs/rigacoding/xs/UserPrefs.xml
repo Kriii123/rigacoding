@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{96638FCD-C3ED-4F46-AA94-0D6FCD7F180A}|Default">
+﻿<Properties StartupConfiguration="{96FBABD5-EBAF-4933-9FC0-DBA364C2953D}|Default">
   <MonoDevelop.Ide.ItemProperties.BlackJack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day5__PraktiskaisDarbs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MajasDarbi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack/Classes/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day9/Program.cs">
     <Files>
-      <File FileName="BlackJack/Program.cs" Line="22" Column="48" />
-      <File FileName="BlackJack/Classes/Game.cs" Line="24" Column="17" />
-      <File FileName="BlackJack/Classes/Deck.cs" Line="53" Column="13" />
-      <File FileName="BlackJack/Classes/Player.cs" Line="6" Column="9" />
+      <File FileName="MajasDarbi2/Program.cs" Line="1" Column="1" />
+      <File FileName="Day7/uzdevumi.cs" Line="1" Column="1" />
+      <File FileName="Day9/uzdevumi.cs" Line="1" Column="1" />
+      <File FileName="Day9/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Day8 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -21,9 +21,12 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MajasDarbi2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.day1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day3__sazarojumi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.karatavas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Day10 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.meginajumi PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.day1__klases PreferredExecutionTarget="MonoDevelop.Default" />

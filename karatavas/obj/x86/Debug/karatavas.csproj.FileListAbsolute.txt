@@ -1,0 +1,5 @@
+/Users/Krish/Projects/rigacoding/karatavas/bin/Debug/karatavas.exe
+/Users/Krish/Projects/rigacoding/karatavas/bin/Debug/karatavas.pdb
+/Users/Krish/Projects/rigacoding/karatavas/obj/x86/Debug/karatavas.csproj.CoreCompileInputs.cache
+/Users/Krish/Projects/rigacoding/karatavas/obj/x86/Debug/karatavas.exe
+/Users/Krish/Projects/rigacoding/karatavas/obj/x86/Debug/karatavas.pdb
