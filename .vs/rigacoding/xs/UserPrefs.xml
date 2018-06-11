@@ -2,12 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.BlackJack PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Day5__PraktiskaisDarbs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MajasDarbi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day9/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day8/Uzdevumi.cs">
     <Files>
+      <File FileName="Day5_PraktiskaisDarbs/Uzdevumi.cs" Line="1" Column="1" />
+      <File FileName="MajasDarbi2/Uzdevumi.cs" Line="1" Column="1" />
       <File FileName="MajasDarbi2/Program.cs" Line="1" Column="1" />
+      <File FileName="MajasDarbi/Uzdevumi.cs" Line="1" Column="1" />
       <File FileName="Day7/uzdevumi.cs" Line="1" Column="1" />
-      <File FileName="Day9/uzdevumi.cs" Line="1" Column="1" />
-      <File FileName="Day9/Program.cs" Line="1" Column="1" />
+      <File FileName="Day6/Masivi.cs" Line="1" Column="1" />
+      <File FileName="Day6/Cikli2.cs" Line="1" Column="1" />
+      <File FileName="Day8/Uzdevumi.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Day8 PreferredExecutionTarget="MonoDevelop.Default" />
